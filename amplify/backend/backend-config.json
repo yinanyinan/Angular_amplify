@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "helloamplifyangular58367392": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
